@@ -13,4 +13,4 @@ All you need to do is follow the "入门" section of the Help menu to get the tu
 
 For those who don't have Python installed on their computers, I've packaged a .exe program for them to use.
 
-FOR SOME REASON, SOME BUGS WILL NOT BE FIXED. 
+FOR SOME REASON, SOME BUGS WILL NOT BE FIXED!
