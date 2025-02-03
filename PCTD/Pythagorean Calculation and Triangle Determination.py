@@ -3,7 +3,7 @@
 # Pythagorean Calculation and Triangle Determination
 # 作者：JBY（拼音缩写） - Buco
 # Author: JBY (Pinyin Abbreviation) - Buco
-# See: https://github.com/Buco101
+# See: https://github.com/Buco101/Others
 # ===============================================================
 
 import tkinter as tk
